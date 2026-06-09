@@ -1,0 +1,7 @@
+ID,Date,Category,Amount,Type
+1,2003-06-30,Income,20000.0,income
+2,2007-02-23,Income,50000.0,income
+3,2006-02-23,income,20000.0,expense
+4,2007-04-21,food,10000.0,expense
+5,2007-05-21,Income,90000.0,income
+6,2007-05-21,shopping,40000.0,expense
